@@ -1,2 +1,5 @@
 # Bharat-Intern
 This repository contains three machine learning projects focused on different aspects of predictive modeling. Each project is implemented using linear regression.
+House Price Prediction: In this project, a machine learning model is developed to predict house prices.
+Wine Quality Prediction: The Wine Quality Prediction project aims to determine the quality of wines based on specific attributes using linear regression.
+Iris Flowers Classification: This project focuses on the classification of different species of iris flowers .
